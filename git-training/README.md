@@ -18,3 +18,7 @@
 - File conflicts
 
 ## Hooks(advanced)
+
+## Security
+- Protecting branch from commit
+- Restrict access
