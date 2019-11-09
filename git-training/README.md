@@ -1,6 +1,9 @@
 # Git Training
 
 ## Git overview
+- what is Git?
+- why Git?
+- alternatives to git?
 
 ## Familiarize with Git
 - Basic git commands
