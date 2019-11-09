@@ -1,2 +1,1 @@
 # sample py app
-test
