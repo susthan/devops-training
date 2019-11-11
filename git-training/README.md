@@ -16,6 +16,7 @@
 - Parent branch changed after branching
 - Current branch updated simultaneously
 - File conflicts
+- Git revert
 
 ## Hooks(advanced)
 
